@@ -1,0 +1,1 @@
+Exec prcGetGapData @SymName=TWTR,@dtFrom='2017-01-01',@dtTo='2022-05-12',@TF='History Data (Daily)'
